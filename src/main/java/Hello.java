@@ -4,5 +4,7 @@ public class Hello {
         System.out.println("Hello!! My First Java Coding!!");
 
         System.out.println("Edit Java code!!");
+
+        System.out.println("Hello!! My Twice Java Coding!!");
     }
 }
